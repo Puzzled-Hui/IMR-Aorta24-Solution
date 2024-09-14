@@ -15,7 +15,7 @@ from pathlib import Path
 from glob import glob
 
 INPUT_PATH = Path("input")  ## for local test
-OUTPUT_PATH = Path("output_test_20240914")  ## for local test
+OUTPUT_PATH = Path("output")  ## for local test
 
 
 RESOURCE_PATH = Path("resources")
